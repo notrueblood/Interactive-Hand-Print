@@ -3,9 +3,9 @@
 # To Play With It:
 At the terminal:
 1. Clone this repository
-  `git clone `
+  `git clone git@github.com:chromoboto/Interactive-Hand-Print.git`
 2. Navigate into the directory that was just created
-  `cd Forrest-of-Notes`
+  `cd Interactive-Hand-Print`
 3. Install dependencies
   `npm install`
-Then open index.html in the dist subdirectory
+Then open index.html
