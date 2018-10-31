@@ -8,4 +8,5 @@ At the terminal:
   `cd Interactive-Hand-Print`
 3. Install dependencies
   `npm install`
+
 Then open index.html
