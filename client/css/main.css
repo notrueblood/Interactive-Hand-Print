@@ -1,0 +1,10 @@
+body,html {
+    margin: 0px;
+    padding: 0px;
+    background-color: white; /*#110E2B;*/
+}
+
+#handCanvas {
+  width: 100%;
+  height: auto;
+}
