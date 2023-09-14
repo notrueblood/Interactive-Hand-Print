@@ -9,7 +9,7 @@ In contast, what I refer to in the code as a supercharged electron, is dropped w
 # To Play With It:
 At the terminal:
 1. Clone this repository (this uses ssh)
-  `git clone git@github.com:chromoboto/Interactive-Hand-Print.git`
+  `git clone git@github.com:notrueblood/Interactive-Hand-Print.git`
 2. Navigate into the directory that was just created
   `cd Interactive-Hand-Print`
 3. Install dependencies
